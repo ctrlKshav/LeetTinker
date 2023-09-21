@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Nil as of now
 - 📫 How to reach me 👇
 - GMail: keshavm9978@gmail.com
-- Twitter: @Ke_Mittal
 
 <!---
 LeetTinker/LeetTinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
