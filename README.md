@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeetTinker
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Nil as of now
+- 👋 Hi, I’m @ctrlKshav
+- 👀 I’m interested in a lotta stuff
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me 👇
 - GMail: keshavm9978@gmail.com
 
