@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @ctrlKshav</h1>
 <h3 align="center">A Full Stack Developer figuring things out!</h3>
 
-- 🔭 I’m currently working on [building a productivity enhancer app with minimal UI] <a href="(https://tasksync-1-vu3b.onrender.com/)">TaskSync</a>
+- 🔭 I’m currently working on [building a productivity enhancer app with minimal UI] <a href="https://tasksync-1-vu3b.onrender.com/">TaskSync</a>
 
 - 🌱 I’m currently learning **NextJS**
 
