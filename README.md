@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **keshavm9978@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12wKg8dGpzr2eqybf5evU62vfVrACJxXR/view?usp=drive_link](https://drive.google.com/file/d/12wKg8dGpzr2eqybf5evU62vfVrACJxXR/view?usp=drive_link)
-
 - ⚡ Fun fact **I wonder and wander a lot**
 
 <h3 align="left">Connect with me:</h3>
